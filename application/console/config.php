@@ -11,5 +11,5 @@
 
 return [ 
 
-    'default_controller'     => 'index',
+    'default_controller'     => 'login',
 ];
