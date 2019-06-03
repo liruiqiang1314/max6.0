@@ -1,0 +1,3 @@
+<?php
+//000000000000a:5:{s:2:"id";i:2;s:5:"title";s:15:"高级管理员";s:11:"description";s:0:"";s:6:"status";i:1;s:5:"rules";a:10:{s:9:"dashboard";a:1:{i:0;s:5:"board";}s:6:"system";a:2:{i:0;s:3:"at1";i:1;s:3:"at2";}s:7:"manager";a:1:{i:0;s:4:"man1";}s:9:"authgroup";a:2:{i:0;s:10:"authgroup1";i:1;s:10:"authgroup5";}s:7:"product";a:4:{i:0;s:8:"product1";i:1;s:8:"product2";i:2;s:8:"product3";i:3;s:8:"product4";}s:12:"product_type";a:3:{i:0;s:13:"product_type2";i:1;s:13:"product_type3";i:2;s:13:"product_type4";}s:3:"nav";a:4:{i:0;s:4:"nav1";i:1;s:4:"nav2";i:2;s:4:"nav3";i:3;s:4:"nav4";}s:7:"message";a:4:{i:0;s:8:"message1";i:1;s:8:"message2";i:2;s:8:"message3";i:3;s:8:"message4";}s:11:"formbuilder";a:1:{i:0;s:5:"build";}s:8:"generate";a:1:{i:0;s:6:"gener1";}}}
+?>
